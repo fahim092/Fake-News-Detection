@@ -1,0 +1,21 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+*.slxc
+*.autosave
+
+# Generated files - keep folder structure but ignore contents
+models/*.mat
+results/*.png
+results/*.csv
+
+# Kaggle dataset (too large for GitHub)
+data/*.csv
+data/*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
