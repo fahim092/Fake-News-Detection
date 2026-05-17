@@ -162,7 +162,7 @@ After running `main.m`, check the `results/` folder for:
 
 ## 👤 Authors
 
-- **[Your Name]** — [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+- **[Faisal]** — [Your GitHub Profile](https://github.com/fahim092)
 
 ---
 
